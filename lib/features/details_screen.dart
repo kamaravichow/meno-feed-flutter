@@ -3,7 +3,7 @@ import 'dart:math';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:meno/main.dart';
+import 'package:meno/features/home/home_screen.dart';
 
 class DetailScreen extends StatefulWidget {
   const DetailScreen({super.key});
